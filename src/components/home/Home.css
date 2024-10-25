@@ -12,7 +12,7 @@
     background-color: white;
     filter: drop-shadow(0 0 0.2rem grey);
     border-radius: 30px;
-    min-height : 200px;
+    min-height : 50%;
 }
 
 #filter-block header{
@@ -40,11 +40,19 @@
     margin : auto;  
 }
 
+.name-product {
+    font-weight : 700;
+    font-size: 22px;
+    color : blue;
+    margin-top : 0px;
+}
+
 .price-product{
     text-align: center;
     font-weight: 500;
     font-size: 18px;
     color : red;
+    margin-bottom : 5px;
 }
 
 .product:hover {
