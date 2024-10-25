@@ -1,0 +1,15 @@
+#header {
+    padding : 10px 20px;
+    background-color: darkblue;
+    display : grid;
+    grid-template-columns: 30% 40% 30%;
+}
+
+#logo {
+
+}
+
+#brand-name {
+    color : white;
+    text-align : center;
+}
